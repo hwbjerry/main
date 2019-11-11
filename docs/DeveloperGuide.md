@@ -37,7 +37,7 @@ BetterDuke and some of its key features._
    - 2.1 Architecture
          - How the architecture components interact with each other
    - 2.2 Duke component
-   - 2.3 Parser component
+   - 2.3 parser component
    - 2.4 Storage component
    - 2.5 UI component
 - Implementation
@@ -146,7 +146,7 @@ The app consists of five ​components​:
 ● Model : Modifies and stores data of App in-memory  
 ● Storage : Read data from and write data to files  
 ● UI: The UI of the App  
-● DukeExceptions: Custom Duke exceptions that may be raised from contextual errors 
+● dukeexceptions: Custom Duke exceptions that may be raised from contextual errors 
  while executing commands in BetterDuke.  
 For example, the ​Parser​ component (see the class diagram given below)  
 defines it’s API in the ​MainParser.java​ interface and exposes its functionality 
@@ -173,7 +173,7 @@ each other for the scenario where the user issues the command ​Add/e A​.
     modified data.  
 
 
-### 2.3 Parser component
+### 2.3 parser component
 
 Figure 4. Structure of the Logic Component
 The ​Logic​ component handles the parsing of user input and interacts with the

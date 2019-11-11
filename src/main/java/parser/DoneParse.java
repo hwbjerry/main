@@ -11,7 +11,6 @@ import dukeexceptions.DukeInvalidFormatException;
 import tasks.Deadline;
 import tasks.Event;
 import java.text.ParseException;
-import java.util.Arrays;
 import java.util.logging.Logger;
 
 /**

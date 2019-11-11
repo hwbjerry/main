@@ -19,7 +19,7 @@
 ### Jerry Ho
 #### <img src="https://github.com/AY1920S1-CS2113T-W12-4/main/blob/master/docs/images/hwbjerry.png" width="200" height="250">
 #### [Jerry](https://github.com/hwbjerry)
-#### Role: Developer + in charge of Commands
+#### Role: Developer + in charge of commands
 #### Responsibility: JavaFX GUI + integration
 
 ### Michelle Toh
@@ -31,7 +31,7 @@
 ### Yang Kai Ze
 #### <img src="https://github.com/AY1920S1-CS2113T-W12-4/main/blob/master/docs/images/krazzen.png" width="200" height="250">
 #### [Kai Ze](https://github.com/Krazzen)
-#### Role: Developer + in charge of Commands
+#### Role: Developer + in charge of commands
 #### Responsibility: Scheduling + tracking
 
 

@@ -5,19 +5,25 @@ import commands.RetrievePreviousCommand;
 import commands.ShowPreviousCommand;
 import commons.UserInteraction;
 import dukeexceptions.DukeInvalidFormatException;
-import parser.FindFreeTimesParse;
-import parser.ShowPreviousParse;
-import parser.WeekParse;
-import stubclasses.StorageStub;
-import tasks.TaskList;
+import commands.Command;
+import commands.RetrievePreviousCommand;
+import dukeexceptions.DukeInvalidFormatException;
 import org.junit.Before;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+import parser.FindFreeTimesParse;
+import parser.ShowPreviousParse;
+import parser.WeekParse;
+import parser.FindFreeTimesParse;
+import parser.ShowPreviousParse;
+import stubclasses.StorageStub;
+import tasks.TaskList;
 
 import java.util.ArrayList;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
+
 
 /**
  * This class tests RetrievePreviousCommand.
